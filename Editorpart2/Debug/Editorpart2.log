@@ -1,0 +1,36 @@
+﻿  Editor.cpp
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\LinkedList.h(45,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\LinkedList.h(51): message : see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\LinkedList.h(50,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\LinkedList.cpp(148,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\LinkedList.cpp(166,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinaryTreeInterface.h(65,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinaryTreeInterface.h(84): message : see reference to class template instantiation 'BinaryTreeInterface<ItemType>' being compiled
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinaryNodeTree.h(85,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinaryNodeTree.h(104): message : see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinaryNodeTree.h(90,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinaryNodeTree.cpp(288,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinaryNodeTree.cpp(322,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinarySearchTree.h(73,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinarySearchTree.h(92): message : see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinarySearchTree.h(74,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinarySearchTree.h(78,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinarySearchTree.cpp(235,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinarySearchTree.cpp(245,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\BinarySearchTree.cpp(270,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(51,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(211,24): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(253,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(267,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(280,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(291,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(317,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(376,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(407,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(422,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(433,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(434,30): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(482,8): warning C4101: 'coord': unreferenced local variable
+C:\Users\nizam\source\repos\Editorpart2\Editorpart2\Editor.cpp(500,13): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\nizam\source\repos\Editorpart2\Debug\Editorpart2.exe not found or not built by the last incremental link; performing full link
+  Editorpart2.vcxproj -> C:\Users\nizam\source\repos\Editorpart2\Debug\Editorpart2.exe
